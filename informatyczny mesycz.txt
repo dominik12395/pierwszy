@@ -1,0 +1,47 @@
+Witaj gimnazjalisto przed tob¹ nastêpuj¹ce zadanie.
+1. Przeczytaj uwa¿nie wszystkie punkty
+2. Pobierz z folderu OD NAUCZYCIELA folder zadania_inf
+WA¯NE - JE¯ELI NIE ZAPISZESZ PRACY - tam gdzie trzeba - to tak jakbyœ nic nie zrobi³;-(
+//polecenia na ocenê celuj¹c¹ na samym koñcu.//
+----------------------------------------------------------------------------
+3. Twoim zadaniem jest przetworzenie pliku index.html oraz style.css wed³ug poni¿szysz wskazañ:
+	- otwórz plik szablon.png -pokazuje on jakie maj¹ byæ u¿yte kolory elementów strony(style.css)
+	- tytu³ strony LEM (zak³adka)(html)
+	- twoje imiê i nazwisko (tam siê podpiszesz)
+	- menu górne i lewe (sidebar) zamieñ tekst na ten poni¿ej
+			Wczesne lata
+			II wojna œwiatowa
+			Pocz¹tki kariery pisarskiej
+			Z³oty okres twórczoœci
+			Œmieræ
+			Warsztat pisarski
+------------------
+w menu po lewej(sidebar) usuñcie kropkowane linie (kropka po angielsku to dot;-)
+------------------------------------------------
+	- zamiast obrazka pingwinka ma byæ obraz Stanislaw_Lem_2(pamiêtaj o rozszerzeniu pliku)
+----------------------------------------------------------------
+	- w topbarR wklejamy:
+	Jest najczêœciej t³umaczonym polskim pisarzem, a w pewnym okresie by³ najbardziej poczytnym nieanglojêzycznym pisarzem SF. Jego ksi¹¿ki przet³umaczono na ponad 	40 jêzyków, osi¹gnê³y ³¹czny nak³ad ponad 30 mln egzemplarzy. Wp³yw Lema na œwiatow¹ literaturê SF krytycy przyrównuj¹ do wp³ywu H.G. Wellsa czy Olafa 	Stapledona.
+	---------------------------------------
+	- w content:
+	Stanis³aw Lem urodzi³ siê we Lwowie 12 wrzeœnia 1921 w rodzinnym mieszkaniu przy ulicy Brajerowskiej 4 jako jedyne dziecko Samuela Lema (inna forma – Lehm, 1879–1954), lwowskiego lekarza i Sabiny Woller (1892–1979). Jego rodzice poznali siê i zarêczyli jeszcze przed I wojn¹ œwiatow¹, jednak œlub odby³ siê dopiero po jej zakoñczeniu, gdy¿ Samuel Lem zosta³ powo³any do s³u¿by w armii austro-wêgierskiej. Podczas wojny trafi³ do niewoli rosyjskiej po upadku twierdzy Przemyœl i przebywa³ w obozie jenieckim w Œrodkowej Azji. Po powrocie do Lwowa zosta³ asystentem na Wydziale Medycznym Uniwersytetu Jana Kazimierza i w kolejnych latach sta³ siê cenionym laryngologiem. Ojciec Lema w m³odoœci publikowa³ tak¿e wiersze i prozê w lwowskiej prasie. Matka Stanis³awa Lema nie posiada³a wy¿szego wykszta³cenia i zajmowa³a siê domem. Siostra ojca Stanis³awa Lema by³a matk¹ Mariana Hemara i Henryka Heschelesa. Istniej¹ tak¿e opinie, ¿e Lem by³ kuzynem lwowskiego matematyka Stanis³awa Ulama, cz³onka projektu Manhattan, jednak sam Lem nazywa³ go wy³¹cznie „znajomym”.
+			
+			Dzieciñstwo i m³odoœæ spêdzi³ we Lwowie, w zamo¿nym domu. Rodzina Lemów posiada³a dwie lwowskie kamienice. Choæ mia³ rodziców z korzeniami ¿ydowskimi, twierdzi³ w póŸniejszych latach, ¿e by³ wychowany jako katolik, a ze wzglêdów moralnych deklarowa³, ¿e jest ateist¹; swój œwiatopogl¹d okreœla³ równie¿ jako agnostycyzm. W szkole uczestniczy³ jednak w lekcjach religii moj¿eszowej. By³ uczniem II Gimnazjum im. Karola Szajnochy, o czym pisze w swojej autobiograficznej ksi¹¿ce Wysoki Zamek. Wyniki badañ nad inteligencj¹ uczniów przeprowadzone przez ówczesne w³adze oœwiatowe wykaza³y, ¿e by³ najinteligentniejszym dzieckiem w po³udniowej Polsce. Na pocz¹tku lata 1939 zda³ maturê. Ulubionymi lekturami Lema by³y w tym czasie utwory: Grabiñskiego, Umiñskiego, Verne’a i Wellsa. Pragn¹³ studiowaæ na politechnice i zostaæ uczonym.			
+						
+			Po wybuchu II wojny œwiatowej, w zaanektowanym przez Zwi¹zek Radziecki Lwowie rozpocz¹³ w 1940 studia medyczne na Wydziale Medycznym Uniwersytetu Lwowskiego, wydzielonym nastêpnie w samodzielny Lwowski Instytut Medyczny. Wczeœniej próbowa³ dostaæ siê na Politechnikê Lwowsk¹, jednak mimo zdanego egzaminu nie zosta³ przyjêty na wymarzone studia ze wzglêdu na niew³aœciwe w ustroju sowieckim pochodzenie spo³eczne – powi¹zania ze œredni¹ bur¿uazj¹. Wst¹pi³ zatem na medycynê, wykorzystuj¹c znajomoœci ojca, by unikn¹æ poboru do Armii Czerwonej.
+-------------
+stopka czyli footer:
+Ksi¹¿ki Lema przyci¹ga³y twórców filmowych g³ównie ze wzglêdu na to, ¿e uda³o mu siê stworzyæ jedn¹ z najoryginalniejszych w œwiatowej literaturze postaci Innego, a dodatkowo ukazaæ dramat jego poznania.
+----------------------------------
+MO¯ECIE KORZYSTAÆ Z GOOGLA, ALE NIE OD KOLEGI/KOLE¯ANKI
+pamiêtajcie ¿e height to wysokoœæ, width to szerokoœc itd itd (google pomo¿e)
+--------------------
+ZAPISYWANIE PRACY: MOJE DOKUMENTY/FOLDER Z TWOJA KLAS¥ NP 2A, 2B/FOLDER Z TWOIM IMIENIEM I NAZWISKIEM a w nim wszystkie pliki strony (BEZ TEGO JEDYNKA PONIEWA¯ JEST TO PODSTAWA UMIEJETNOŒCI INFORMATYCZNYCH CZYLI POPRAWNE ZAPISYWANIE PLIKÓW I FOLDERÓW)
+-------------------------
+NA OCENÊ 6 
+zamiast pingwinka,u¿yj obrazka Stanis³aw_Lem - tak strona siê rozje¿d¿a wiêc pozmieniaj odpowiednie parametry w style.css, kolory wg szablon.jpg, t³o strony:obrazkowe (solaris.jpg) treœæ strony wype³nij jak wy¿ej (content, menu)i menu umieœæ po prawej. Je¿eli ci ma³o i chcesz mnie zachwyciæ to usuñ w górnym menu oboka s³owa "warsztat pisarski" pionow¹ kropkowan¹ liniê.
+
+¯yczê wszystkim powodzenia, niech moc bêdzie z wami, a pokój ludziom dobrej woli, 
+PS. za to macie dwie oceny za html i za css (czyli kaskadowe arkusze stylów)
+
+Tomasz Tymiñski rocznik 1977
